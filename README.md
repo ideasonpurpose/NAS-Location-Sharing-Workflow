@@ -25,7 +25,7 @@ Once set up, copy the Quick Actions to ~/Library/Services/ on any machine or acc
 
 ## Compatibility
 
-These Quick Actions have been tested on macOS X 10.12 – 10.14, and are likely to work on systems as far back as 10.6.
+These Quick Actions have been tested on macOS 10.12 – 10.14, and are likely to work on systems as far back as 10.6.
 
 ## About
 
