@@ -1,7 +1,7 @@
 # Network Drive Location Sharing Automator Workflow
 Allows macOS X users in an office to quickly send and open recieved locations on a shared network drive.
 
-All IOP-specific addresses have been removed from the branch of this repo.
+All IOP-specific addresses have been removed from this public repository.
 
 ## Usage
 
