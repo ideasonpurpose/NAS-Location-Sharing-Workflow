@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open Location On Server</string>
+				<string>Open Location On Server-Public</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
